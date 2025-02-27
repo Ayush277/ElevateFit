@@ -102,23 +102,23 @@ function App() {
   const testimonials = [
     {
       id: 1,
-      name: "Sarah Johnson",
-      role: "Lost 30lbs in 3 months",
-      content: "This platform completely transformed my fitness journey. The daily challenges kept me motivated and the community support was incredible!",
+      name: "Priya Sharma",
+      role: "Lost 15kg in 4 months",
+      content: "This platform completely transformed my fitness journey. The daily yoga challenges and Ayurvedic diet tips kept me motivated, and the community support was incredible!",
       avatar: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=128&q=80"
     },
     {
       id: 2,
-      name: "Michael Chen",
-      role: "Marathon Runner",
-      content: "As a competitive runner, I needed a platform that could keep up with my training. The analytics and progress tracking are unmatched!",
+      name: "Rahul Patel",
+      role: "Cricket Enthusiast",
+      content: "As a cricket player, I needed a platform that could keep up with my training. The analytics and progress tracking for my fitness and agility are unmatched!",
       avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=128&q=80"
     },
     {
       id: 3,
-      name: "Emma Rodriguez",
-      role: "Fitness Coach",
-      content: "I recommend this platform to all my clients. The calorie planner and workout tracking make it easy to stay on top of your fitness goals.",
+      name: "Anjali Desai",
+      role: "Yoga Instructor",
+      content: "I recommend this platform to all my yoga students. The meditation tracker and asana progress planner make it easy to stay on top of your holistic fitness goals.",
       avatar: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=128&q=80"
     }
   ];
